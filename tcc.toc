@@ -1,0 +1,19 @@
+\select@language {portuguese}
+\contentsline {chapter}{Lista de Figuras}{4}{section*.3}
+\contentsline {chapter}{Lista de Tabelas}{5}{section*.5}
+\contentsline {chapter}{Lista de Quadros}{6}{section*.7}
+\contentsline {chapter}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{7}{chapter.1}
+\contentsline {section}{\numberline {1.1}Justificativa}{8}{section.1.1}
+\contentsline {section}{\numberline {1.2}Objetivos Gerais}{8}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Objetivo Espec\IeC {\'\i }ficos}{9}{subsection.1.2.1}
+\contentsline {section}{\numberline {1.3}Organiza\IeC {\c c}\IeC {\~a}o da Proposta}{9}{section.1.3}
+\contentsline {chapter}{\numberline {2}Dificuldades Enfrentadas pelos alunos com NNEs e a Import\IeC {\^a}ncia das Tecnologias de Informa\IeC {\c c}\IeC {\~a}o e Comunica\IeC {\c c}\IeC {\~a}o}{10}{chapter.2}
+\contentsline {section}{\numberline {2.1}Dificuldades Enfrentadas na Educa\IeC {\c c}\IeC {\~a}o dos alunos com NNEs}{10}{section.2.1}
+\contentsline {section}{\numberline {2.2}Implanta\IeC {\c c}\IeC {\~a}o das TICs no aux\IeC {\'\i }lio da Educa\IeC {\c c}\IeC {\~a}o}{11}{section.2.2}
+\contentsline {section}{\numberline {2.3}Os Diferentes Tipos de Plataformas Educacionais}{11}{section.2.3}
+\contentsline {chapter}{\numberline {3}Metodologia}{12}{chapter.3}
+\contentsline {chapter}{\numberline {4}Resultados}{13}{chapter.4}
+\contentsline {chapter}{\numberline {5}Conclus\IeC {\~a}o}{14}{chapter.5}
+\contentsline {chapter}{Refer\IeC {\^e}ncias Bibliogr\IeC {\'a}ficas}{15}{section*.9}
+\contentsline {chapter}{Ap\^endices}{15}{chapter*.10}
+\contentsline {chapter}{\numberline {A}Anexos}{16}{appendix.A}
